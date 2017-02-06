@@ -1,0 +1,11 @@
+*{margin: 0px;padding: 0px;}
+body{padding-top: 130px;}
+.navbar-header{padding-right: 30px;}
+#navbar{margin-top: 15px;}
+#navbar a:hover{color:#1E94D4; }
+h1{font-family: "w微软雅黑";font-weight: bold;}
+.nav li{background-color: none;}
+/**/
+.a1{color: black;float: right;}
+p{margin-top: 20px;margin-bottom: 50px;}
+p a{padding-right: 10px;}

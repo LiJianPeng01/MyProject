@@ -1,0 +1,32 @@
+*{margin: 0px;padding: 0px;}
+body{padding-top: 80px;}
+.navbar-header{padding-right: 30px;}
+#navbar{margin-top: 15px;}
+#navbar a:hover{color:#1E94D4; }
+.yunlu{border-bottom: 1px solid #ccc;margin-top: 20px;}
+.yunlu button{margin-left: 50px;}
+.btn-inline{margin-top: -65px;float: right;}
+h4{color:#1E94D4;}
+p{color: #6C6C6C;font-size: 10px;padding-bottom: 15px;}
+.rong{margin-top: 35px;}
+.rong img{border: 1px solid #ccc;border-radius: 50%;width: 100px;height: 100px;}
+.flex-item{width: 360px;float: left;padding: 20px;}
+
+.guanyu{border: 1px solid #ccc;height: 40px;}
+.guanyu .a1{float: right;}
+.guanyu p {margin-top: 13px;}
+
+.xitong{border-bottom: 1px solid #ccc;margin-top: 20px;padding-bottom: 20px;}
+.xitong .item1{float: left;width: 160px;margin-left: 20px;}
+.xitong .item1 img{width: 50px ;height: 50px; border: 1px solid #ccc;border-radius: 50%;}
+
+.xitong .item1{margin-right: 100px;}
+
+.kefu .item2{float: left; margin-top: 40px;padding-right: 150px;margin-left: 40px;}
+
+.kefu .item2 img{width: 50px ;height: 50px;border: 1px solid #ccc;border-radius: 50%;}
+
+.footer{margin-top: 30px;}
+.footer p{padding-top: 10px;}
+.dingbu{float: right;color: #383636;}
+
